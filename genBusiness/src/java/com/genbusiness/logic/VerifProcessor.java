@@ -56,7 +56,7 @@ public class VerifProcessor implements MessageListener {
         Response response = new Response();
         response.setDocument(document);
         
-        //Traitement...
+        //Traitement....
 
         return response;
     }
